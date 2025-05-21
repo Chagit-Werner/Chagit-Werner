@@ -26,6 +26,9 @@ I am a software engineer who loves programming, learning new technologies, and b
   <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio" title="Visual Studio" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code" style="margin-right:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" title="Jupyter Notebook" width="48" height="48" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React" style="margin-right:10px;"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="48" height="48" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" title="AWS" style="margin-right:10px;"/>
 </p>
 
 
