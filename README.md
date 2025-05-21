@@ -4,34 +4,28 @@ I am a software engineer who loves programming, learning new technologies, and b
 
 ## 👩‍💻 Languages, Tools and Technologies I Know and Use
 
+
 <p align="left">
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <strong>Java</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <!-- SQL -->
-
-  <!-- Tools & Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <!-- .NET Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-
-  <!-- IDEs / Editors -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#" title="C#"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/net-core.png" alt=".NET Core" title=".NET Core"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jupyter-a-web-application-used-to-create-and-share-documents-containing-live-code-logo-color-tal-revivo.png" alt="Jupyter" title="Jupyter Notebook"/>
 </p>
+
 
 ## 📫 Let's Connect
 
